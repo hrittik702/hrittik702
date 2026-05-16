@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hrittik Maurya
+**Aspiring Software Engineer | System Enthusiast | Problem Solver**
 
-<!--
-**hrittik702/hrittik702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build robust applications and solve complex algorithmic problems. My focus is on clean architecture, efficient data structures, and mastering the fundamentals of computer science.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Tools
+* **Languages:** C++, Java
+* **Core Focus:** Data Structures & Algorithms, Recursive Problem Solving
+* **Environment & Tools:** Linux (Pop!_OS/Ubuntu), Zsh, Git, GitUI, Vercel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Building & Managing
+* **Alumni Connect:** Developing a networking platform to facilitate seamless connections and media sharing between students and alumni.
+* **Yuva Coders:** Collaborating on team-based technical projects and managing project repositories.
+
+### 🏆 Milestones & Competitions
+* Qualified: Anadigix, Enigma, and Maths Olympiad (Kshitij, IIT Kharagpur)
+* Competed: Capital Quest and Bid and Build (21st E-Summit, IIT Bombay)
+* Participant: TechWizard 2.0 Hackathon
+
+### ⚡ Current Focus
+Deep-diving into advanced DSA concepts and continually optimizing my development environment for maximum efficiency.
