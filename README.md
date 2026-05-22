@@ -4,9 +4,9 @@
 I build robust applications and solve complex algorithmic problems. My focus is on clean architecture, efficient data structures, and mastering the fundamentals of computer science.
 
 ### 🛠 Tech Stack & Tools
-* **Languages:** C++, Java
+* **Languages:** C++
 * **Core Focus:** Data Structures & Algorithms, Recursive Problem Solving
-* **Environment & Tools:** Linux (Pop!_OS/Ubuntu), Zsh, Git, GitUI, Vercel
+* **Environment & Tools:** Linux (Pop!_OS/Ubuntu), Zsh, Git, Vercel
 
 ### 🚀 What I'm Building & Managing
 * **Alumni Connect:** Developing a networking platform to facilitate seamless connections and media sharing between students and alumni.
