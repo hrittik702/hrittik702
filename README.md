@@ -1,4 +1,4 @@
-# Hrittik Maurya
+# Hi there, I'm Hrittik! 👋
 **Aspiring Software Engineer | System Enthusiast | Problem Solver**
 
 I build robust applications and solve complex algorithmic problems. My focus is on clean architecture, efficient data structures, and mastering the fundamentals of computer science.
