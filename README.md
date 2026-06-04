@@ -2,20 +2,12 @@
 **Student  | System Enthusiast | Problem Solver**
 
 Learning is never done without Errors ⚔️
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
-    <h3>Tech Stack & Tools</h3>
-    <ul>
-      <li><b>Languages:</b> C++, HTML, CSS</li>
-      <li><b>Core Focus:</b> Data Structures & Algorithms</li>
-      <li><b>Environment & Tools:</b> Linux (Pop!OS/Ubuntu), Git, Vercel</li>
-    </ul>
-  </div>
 
-  <div>
-    <img src="gif.gif" alt="Typing animation" style="width:120px; height:auto;">
-  </div>
-</div>
+| Tech Stack & Tools |     |
+| ------------------ | --- |
+**Core Focus:** Data Structures & Algorithms 
+**Environment & Tools:** Linux (Pop!OS/Ubuntu), Git, Vercel | <img src="gif.gif" width="120" alt="Typing animation"> |
+
 
 ### 🚀 What I'm Building & Managing
 * **Connect Karo:** Developing a networking platform to facilitate seamless connections and media sharing between students and alumni. 
