@@ -1,6 +1,6 @@
 # Hi there, I'm Hrittik! 👋
 **Learning is never done without Errors** ⚔️
-<img src="gif.gif" width="200" align="right">
+<img src="gif.gif" width="250" align="right">
 <h3>Tech Stack & Tools</h3>
 <ul>
   <li><b>Languages:</b> C++, HTML, CSS</li>
