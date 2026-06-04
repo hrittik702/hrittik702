@@ -1,21 +1,22 @@
 # Hi there, I'm Hrittik! 👋
-**Aspiring Software Engineer | System Enthusiast | Problem Solver**
+**Student  | System Enthusiast | Problem Solver**
 
-I build robust applications and solve complex algorithmic problems. My focus is on clean architecture, efficient data structures, and mastering the fundamentals of computer science.
+Learning is never done without Errors ⚔️
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h3>Tech Stack & Tools</h3>
+    <ul>
+      <li><b>Languages:</b> C++, HTML, CSS</li>
+      <li><b>Core Focus:</b> Data Structures & Algorithms</li>
+      <li><b>Environment & Tools:</b> Linux (Pop!OS/Ubuntu), Git, Vercel</li>
+    </ul>
+  </div>
 
-### 🛠 Tech Stack & Tools
-* **Languages:** C++
-* **Core Focus:** Data Structures & Algorithms, Recursive Problem Solving
-* **Environment & Tools:** Linux (Pop!_OS/Ubuntu), Zsh, Git, Vercel
+  <div>
+    <img src="gif.gif" alt="Typing animation" style="width:120px; height:auto;">
+  </div>
+</div>
 
 ### 🚀 What I'm Building & Managing
-* **Alumni Connect:** Developing a networking platform to facilitate seamless connections and media sharing between students and alumni.
-* **Yuva Coders:** Collaborating on team-based technical projects and managing project repositories.
-
-### 🏆 Milestones & Competitions
-* Qualified: Anadigix, Enigma, and Maths Olympiad (Kshitij, IIT Kharagpur)
-* Competed: Capital Quest and Bid and Build (21st E-Summit, IIT Bombay)
-* Participant: TechWizard 2.0 Hackathon
-
-### ⚡ Current Focus
-Deep-diving into advanced DSA concepts and continually optimizing my development environment for maximum efficiency.
+* **Connect Karo:** Developing a networking platform to facilitate seamless connections and media sharing between students and alumni. 
+* **Yuva Coders:** Collaborating on team-based technical projects and managing project repositories
