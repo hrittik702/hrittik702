@@ -26,7 +26,7 @@
 ### 📊 GitHub Analytics
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=tokyonight&count_private=true" alt="Hrittik's GitHub Stats" height="27%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=tokyonight&count_private=true" alt="Hrittik's GitHub Stats" width="36%" />
   &nbsp;
   &nbsp;
   &nbsp;&nbsp;
@@ -34,6 +34,6 @@
 </p>
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrittik702&theme=tokyonight" alt="GitHub Streak" width="68%" />
-</p>
+</p> -->
