@@ -3,7 +3,7 @@
 
 <img src="gif.gif" width="250" align="right">
 
-<h3>Tech Stack & Tools</h3>
+<h3># Tech Stack & Tools</h3>
 <ul>
   <li><b>Languages :</b> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" alt="C++" align="center"/> &nbsp;
@@ -23,16 +23,13 @@
   </li>
 </ul>
 
-### 📊 GitHub Analytics
+<h3># Github Analytics</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=tokyonight&count_private=true" alt="Hrittik's GitHub Stats" width="36%" />
-  &nbsp;
-  &nbsp;
-  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=tokyonight&count_private=true" alt="Hrittik's GitHub Stats" width="46%" />
+  &nbsp; &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=tokyonight" alt="Most Used Languages" width="36%" />
 </p>
-<br>
 
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hrittik702&theme=tokyonight" alt="GitHub Streak" width="68%" />
