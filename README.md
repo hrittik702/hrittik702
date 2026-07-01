@@ -26,7 +26,7 @@
 <h3># Github Analytics</h3>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" /> -->
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
 </p>
