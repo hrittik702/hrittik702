@@ -26,11 +26,15 @@
 <h3># Github Analytics</h3>
 <br>
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" /> -->
+  <img src="https://github-readme-stats-hrittik702.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" />
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
+  <img src="https://github-readme-stats-hrittik702.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
 </p>
 <br>
 
 <p align="center">
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=hrittik702&theme=github-dark-blue&border_radius=5&card_width=500" alt="GitHub Streak" /></a></p> 
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=hrittik702&theme=github-dark-blue&border_radius=5&card_width=500&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
