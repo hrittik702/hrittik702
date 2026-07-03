@@ -1,4 +1,4 @@
-# Hi there, I'm Hrittik! 👋
+# Hi there, I'm Hrittik! 👋 
 **Learning is never done without Errors** ⚔️
 
 <img src="gif.gif" width="250" align="right">
@@ -22,8 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" align="center"/> &nbsp;
   </li>
 </ul>
-![](https://komarev.com/ghpvc/?username=hrittik702&label=PROFILE+VIEWS)
-<h3># Github Analytics</h3>
+<h3># Github Analytics & <img align="center" src="https://komarev.com/ghpvc/?username=hrittik702&label=Profile+Views" alt="Profile Views" /></h3>
 <br>
 <p align="center">
   <img src="https://github-readme-stats-hrittik702.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" />
