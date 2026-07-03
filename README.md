@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" align="center"/> &nbsp;
   </li>
 </ul>
-
+![](https://komarev.com/ghpvc/?username=hrittik702&label=PROFILE+VIEWS)
 <h3># Github Analytics</h3>
 <br>
 <p align="center">
