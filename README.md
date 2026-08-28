@@ -30,8 +30,6 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats-hrittik702.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
 </p>
-<br>
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hrittik702&theme=github-dark-blue&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
-</p>
+</p> -->
