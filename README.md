@@ -15,6 +15,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="CSS" align="center"/> &nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="30" height="30" align="center" alt="Bootstrap" /> &nbsp;
   </li>
+  <li><b>Back-End :</b> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="HTML" align="center"/> &nbsp;
+  </li>
   <br>
   <li><b>Cloud, Environment & Tools :</b> &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" align="center"/> &nbsp;
