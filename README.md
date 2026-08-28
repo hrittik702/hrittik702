@@ -1,4 +1,5 @@
-# Hi there, I'm Hrittik! 👋 
+# Hi there, I'm Hrittik! 👋
+
 **Learning is never done without Errors** ⚔️
 
 <img src="gif.gif" width="250" align="right">
@@ -17,7 +18,15 @@
   </li>
   <br>
   <li><b>Back-End :</b> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="HTML" align="center"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="30" height="30" alt="nodejs" align="center"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="30" height="30" align="center" alt="express-js"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="30" height="30" align="center" alt="mongoose"/>
+  </li>
+  <br>
+  <li>
+  <b> Database :</b> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="30" height="30" align="center" alt="mysql"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="30" height="30" align="center" alt="mongo-db"/> &nbsp;
   </li>
   <br>
   <li><b>Cloud, Environment & Tools :</b> &nbsp; 
@@ -34,6 +43,3 @@
   &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats-hrittik702.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
 </p>
-<!-- <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hrittik702&theme=github-dark-blue&hide_border=true&border_radius=0" alt="GitHub Streak" /></a>
-</p> -->
