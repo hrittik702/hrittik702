@@ -32,7 +32,7 @@
   <li><b>Cloud, Environment & Tools :</b> &nbsp; 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30" alt="Git" align="center"/> &nbsp;
     <img src="https://cdn.simpleicons.org/github/white" width="25" height="25" alt="GitHub" align="center"/> &nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30" alt="Linux" align="center"/> &nbsp;
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="30" alt="Linux" align="center"/> &nbsp;
   </li>
 </ul>
 
@@ -42,7 +42,5 @@
   <img src="https://github-readme-stats-hrittik702.vercel.app/api?username=hrittik702&show_icons=true&theme=github_dark&count_private=true" alt="Hrittik's GitHub Stats" width="46%" />
   &nbsp; &nbsp; &nbsp;
   <img src="https://github-readme-stats-hrittik702.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
-  <img src="https://github-streak-stats-hrittik702.vercel.app/api/top-langs/?username=hrittik702&layout=compact&theme=github_dark" alt="Most Used Languages" width="35%" />
   <img src="https://streak-stats.demolab.com?user=hrittik702&amp;theme=github-dark-blue&amp;hide_border=true&amp;border_radius=0" alt="GitHub Streak" loading="lazy" decoding="async">
-  
 </p>
